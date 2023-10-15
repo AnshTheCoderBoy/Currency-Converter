@@ -34,6 +34,7 @@ function App() {
     return ( 
     <>
         <main className = " w-full h-screen  flex flex-wrap  items-center justify-center bg-opacity-50 bg-blue-900" >
+            <h1 className='text-4xl text bg-yellow-400 font font-semibold tracking-widest'>Currency Converter</h1>
         <div className="w-full">
             <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                 <form
